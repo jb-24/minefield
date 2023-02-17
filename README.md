@@ -1,5 +1,4 @@
-# minefield
-simple command line minesweeper clone in java
+# minefield - a simple cli minesweeper clone in java
 
 ## gameplay instructions
 (assuming the user knows how to play minesweeper)
